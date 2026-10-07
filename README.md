@@ -1,0 +1,4 @@
+
+
+# POC_10072026_Manager_4
+XSS_to_CSRF_create_New_Admin_account

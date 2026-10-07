@@ -3,7 +3,11 @@ XSS_to_CSRF_create_New_Admin_account
 
 
 
-<img width="800" height="405" alt="XSS_to_CSRF_create_New_Admin_account-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e23a0194-4f0e-4c35-af00-88dc33e71293" />
+
+
+https://github.com/user-attachments/assets/3191a44c-5ea2-4531-afe6-2f47b1d712db
+
+
 
 
 
